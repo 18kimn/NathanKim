@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Nathan Kim
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Sophomore, Class of 2022
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Yale University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+# interests:
+# - Artificial Intelligence
+# - Computational Linguistics
+# - Information Retrieval
+# 
+# education:
+#   courses:
+#   - course: PhD in Artificial Intelligence
+#     institution: Stanford University
+#     year: 2012
+#   - course: MEng in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2009
+#   - course: BSc in Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,18 +44,18 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:nathan.kim@yale.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://twitter.com/itsnathankim
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  link: https://www.linkedin.com/in/nathanckim18/
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/18kimn
+#Link to a PDF of your resume/CV from the About widget.
+#To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
@@ -65,11 +65,12 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a sophomore at Yale Unviersity with a double major in Statistics & Data Science and Ethnicity, Race, & Migration. I am broadly interested in a critical study of geospatial, educational, and racial inequalities, especially through quantitative methods. I have related interests in effective data visualization and interactive presentations.My strengths are in the R tidyverse, and I am also familiar with the data.table, Shiny, sf, and spatstat packages. I also have experience working in Python, Stata, Tableau, and Excel. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+At Yale, I work as a research assistant for Professor Emma Zang, am on the Asian American Studies Task Force, and perform with Korean drum troup UNITY. Previously, I served as Programming Chair for the Asian American Students Alliance and was a Dwight Hall Urban Fellow, through which I worked at local nonprofit LEAP. You can find more informaiton in my [CV](files/cv.pdf). 
