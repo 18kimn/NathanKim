@@ -9,21 +9,16 @@
   weight = 10
 
 [[main]]
-  name = "Blog"
-  url = "blog"
-  weight = 20
-
-[[main]]
-  name = "Keywords"
-  parent = "Blog"
-  url = "blog/keywords"
-  weight = 20
-
-
-[[main]]
   name = "Projects"
   url = "#projects"
   weight = 30
+
+[[main]]
+  name = "Cartography"
+  parent = "Projects"
+  url = "projects/carto"
+  weight = 20
+
 
 #[[main]]
 #  name = "Publications"

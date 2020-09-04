@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Sophomore, Class of 2022
+role: Yale College Class of 2022
 
 # Organizations/Affiliations
 organizations:
@@ -45,9 +45,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:nathan.kim@yale.edu"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/itsnathankim
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/nathanckim18/
@@ -70,7 +67,10 @@ email: ""
 # - Visitors
 ---
 
-I'm a sophomore at Yale Unviersity with a double major in Statistics & Data Science and Ethnicity, Race, & Migration. I am broadly interested in a critical study of geospatial, educational, and racial inequalities, especially through quantitative methods. I have related interests in effective data visualization and interactive presentations.My strengths are in the R tidyverse, and I am also familiar with the data.table, Shiny, sf, and spatstat packages. I also have experience working in Python, Stata, Tableau, and Excel. 
+I'm a junior at Yale College double majoring in Ethnicity, Race, & Migration and Statistics & Data Science. I am broadly interested in a critical study of space and race, especially in how actions along these dimensions can destroy or advance global imperialism. I have related interests in data visualization and interactive presentations. My strengths are in the R tidyverse, and I am also familiar with the data.table, Shiny, sf, and spatstat packages. I also have experience working in Python, Stata, Tableau, and Excel. 
+
+I work as a research assistant with Professor Emma Zang through the Yale Institution for Social and Policy Studies, and with Dr. Paul Joudrey at the Yale School of Medicine. I am also an intern with local New Haven nonprofit DataHaven. On campus, I am part of the Asian Students for Ethnic Studies group (formerly the Asian American Studies Task Force) and perform with Korean drum troup UNITY. Previously, I served as Programming Chair for the Asian American Students Alliance and was a Dwight Hall Urban Fellow, through which I worked at local nonprofit LEAP. 
+
+You can find more informaiton in my [CV](files/cv.pdf), and some of my work in the [Projects](#projects) tab. 
 
 
-At Yale, I work as a research assistant for Professor Emma Zang, am on the Asian American Studies Task Force, and perform with Korean drum troup UNITY. Previously, I served as Programming Chair for the Asian American Students Alliance and was a Dwight Hall Urban Fellow, through which I worked at local nonprofit LEAP. You can find more informaiton in my [CV](files/cv.pdf). 
