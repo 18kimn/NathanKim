@@ -55,7 +55,7 @@ social:
 #To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: files/cv.html
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,6 +71,6 @@ I'm a junior at Yale College double majoring in Ethnicity, Race, & Migration and
 
 I work as a research assistant with Professor Emma Zang through the Yale Institution for Social and Policy Studies, and with Dr. Paul Joudrey at the Yale School of Medicine. I am also an intern with local New Haven nonprofit DataHaven. On campus, I am part of the Asian Students for Ethnic Studies group (formerly the Asian American Studies Task Force) and perform with Korean drum troup UNITY. Previously, I served as Programming Chair for the Asian American Students Alliance and was a Dwight Hall Urban Fellow, through which I worked at local nonprofit LEAP. 
 
-You can find more informaiton in my [CV](files/cv.pdf), and some of my work in the [Projects](#projects) tab. 
+You can find more informaiton in my [CV](files/cv.html), and some of my work in the [Projects](#projects) tab. 
 
 

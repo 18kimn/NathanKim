@@ -1,5 +1,14 @@
-.dropdown-menu,
-nav#navbar-main li.nav-item {
-  font-size: 16px;
-  padding: 0px 0px 0px;
+ .navbar {
+  height: 70px;
+  background: $sta-menu-primary;
+/* this is the part that takes out the shadow & the only edit */
+  box-shadow: none;  
+  font-size: 18px;
+  font-weight: 100;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  padding: 0 1rem;
 }
