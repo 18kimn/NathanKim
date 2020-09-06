@@ -104,8 +104,6 @@ CV %<>% print_text_block("intro")
 
 ```
 
-```{r}
-```
 
 
 
@@ -116,6 +114,11 @@ Education {data-icon=graduation-cap data-concise=true}
 CV %<>% print_section('education')
 ```
 
+Awards {data-icon=award data-concise=true}
+--------------------------------------------------------------------------------
+```{r}
+CV %<>% print_section('awards')
+```
 
 Publications {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
