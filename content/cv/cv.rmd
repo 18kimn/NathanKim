@@ -59,7 +59,7 @@ datadrivencv::build_network_logo(CV$entries_data)
 if(params$pdf_mode){
   cat("View this CV online at [https://nathankim.name/files/cv.html](https://nathankim.name/files/cv.html]")
 } else {
-  cat("[<i class='fas fa-download'></i> Download a PDF of this CV](https://github.com/18kimn/nathankim/raw/master/static/files/cv.pdf)")
+  cat("[<i class='fas fa-download'></i> Download as PDF.](https://github.com/18kimn/nathankim/raw/master/static/files/cv.pdf)")
 }
 ```
 

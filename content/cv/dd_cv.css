@@ -35,7 +35,7 @@ sup {
 
 /* Customize some of the sizing variables */
 :root {
-  --sidebar-width: 12rem; /* Shrink sidebar width  */
+  --sidebar-width: 11rem; /* Shrink sidebar width  */
   --sidebar-background-color: #f7fbff; /* Make sidebar blue */
   --sidebar-horizontal-padding: 0.01in; /* Reduce sidebar padding */
   --decorator-outer-dim: 10px; /* Make position deliniating circles larger */
@@ -75,8 +75,13 @@ sup {
   margin-left: -4.25pt;
   content: "• ";
 }
+/* trying to decrease sidebar font */
+#contact {
+  font-size: .6rem;
+}
 
-/* Make sure elements in asside are centered and have a nice small text */
+
+/* Make sure elements in aside are centered and have a nice small text */
 .aside {
   width: calc(var(--sidebar-width) + 9px);
   line-height: 1.2;
@@ -116,8 +121,8 @@ sup {
 
 /* Add styles for little cards  */
 .info-card{
-  width: 220px;    
-  float: left;    
+  width: 220px;
+  float: left;
   padding: 0.5rem;
   margin: 0.5rem;
   box-shadow: 1px 1px 4px black;
