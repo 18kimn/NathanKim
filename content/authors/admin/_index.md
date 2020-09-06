@@ -47,7 +47,7 @@ social:
   link: "mailto:nathan.kim@yale.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/nathanckim18/
+  link: https://www.linkedin.com/in/nathanckim/
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/18kimn
