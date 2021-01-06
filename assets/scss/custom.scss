@@ -2,7 +2,7 @@
   height: 70px;
   background: $sta-menu-primary;
 /* this is the part that takes out the shadow & the only edit */
-  box-shadow: none;  
+  box-shadow: none;
   font-size: 18px;
   font-weight: 100;
   position: fixed;
@@ -12,3 +12,21 @@
   z-index: 1030;
   padding: 0 1rem;
 }
+
+.article-container {
+  margin: 5%;
+  width: 90%;
+  max-width: 90%;
+}
+
+div.article-style {
+  overflow-y: scroll;
+  overflow-x: visible;
+}
+
+.list {
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+
+
