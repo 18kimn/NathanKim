@@ -13,9 +13,9 @@ superuser: true
 role: Yale College Class of 2022
 
 # Organizations/Affiliations
-organizations:
-- name: Yale University
-  url: ""
+# organizations:
+# - name: Yale University
+#   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
