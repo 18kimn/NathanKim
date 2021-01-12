@@ -155,7 +155,7 @@ sharing = true
 
 # Link authors to their profile page? (true/false)
 link_authors = true
-
+sharing = false
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 plugins_js  = []
